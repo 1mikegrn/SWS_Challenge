@@ -24,9 +24,11 @@ alternatively, two files and a keyword can be passed to the console script of
 the following formats:
 
 :code:`grid.txt`
+
 .. image:: /images/T2.jpg
 
 :code:`words.txt`
+
 .. image:: /images/T3.jpg
 
 where the :code:`WRAP` or :code:`NO_WRAP` argument is tagged to the end of the
