@@ -1,7 +1,7 @@
-hello
-sedona
-california
-goodbye
-texas
-supercalifragilisticexpialidocious
-washington
+HELLO
+SEDONA
+CALIFORNIA
+GOODBYE
+TEXAS
+SUPERCALIFRAGILISTICEXPIALIDOCIOUS
+WASHINGTON

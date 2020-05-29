@@ -17,4 +17,5 @@ def main():
         word_class = SWS.src.targets.Targets(reader['search_file'])
 
         SWS.super_word_search.main(grid_class, word_class)
-        
+
+            

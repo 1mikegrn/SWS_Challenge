@@ -1,5 +1,5 @@
 from os import path
-import SWS_challenge as SWS
+import SWS_Challenge as SWS
 import time
 
 here = path.abspath(path.dirname(__file__))

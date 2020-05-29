@@ -46,6 +46,8 @@ NNA_Challenge
 .. automodule:: SWS_Challenge.src.tools.interpolate_space
    :members:
 
+.. include:: /example.rst
+
 .. include:: /about.rst
 
 .. toctree::

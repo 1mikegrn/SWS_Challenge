@@ -1,9 +1,9 @@
 from os import path
-import SWS_challenge as SWS
+import SWS_Challenge as SWS
 
 def build():
 
-    differentiate = True
+    differentiate = False
 
     here = path.abspath(path.dirname(__file__))
 
@@ -36,7 +36,7 @@ def build():
             for x in lines]
         )
 
-    with open(path.join(here, 'search.txt'), 'w') as w:
+    with open(path.join(here, 'words.txt'), 'w') as w:
         lines = search_words + dummy_words
         w.writelines(
             [x+'\n' if x != lines[-1] else x 
