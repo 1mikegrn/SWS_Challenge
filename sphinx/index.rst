@@ -7,7 +7,7 @@ SWS_Challenge: A submission for the Super Word Search Challenge
 
 .. include:: main_page.rst
 
-NNA_Challenge
+SWS_Challenge
 =============
 
 .. automodule:: SWS_Challenge.__init__
